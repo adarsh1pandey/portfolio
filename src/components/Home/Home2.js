@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              About <span className="purple"> Myself </span> !
+              About <span className="purple"> Myself (adarshpy)</span> !
             </h1>
             <p className="home-about-body">
               I am passionate about Full Stack Web Development. I have worked on severel technologies like: ReactJs,
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/adarshpnd71"
+                  href="https://github.com/adarsh1pandey"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -105,6 +105,7 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
+              
             </ul>
           </Col>
         </Row>
