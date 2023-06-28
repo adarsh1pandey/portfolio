@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Made with ❤️ by Adarsh Pandey(adarshpy)</h3>
+          <h3>Made with ❤️ by Adarsh Pandey</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {2022} Adarsh Pandey(adarshpy)</h3>
+          <h3>Copyright © {2023} Adarsh Pandey</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
