@@ -19,21 +19,21 @@ function Home2() {
               About <span className="purple"> Myself </span> !
             </h1>
             <p className="home-about-body">
-              I am passionate about Full Stack Web Development. I have worked on severel technologies like: ReactJs,
-               NodeJs, ExpressJs, NextJS, MongoDB, MySQL, API, Git, GitHub, Google firebase, AWS etc. 
+              I am passionate about Full Stack Web Development. I have worked on severel technologies like: React Native, ReactJs,
+                API, Git, GitHub, Google firebase, AWS etc. 
               <br />
               <br />I know 
               <i>
-                <b className="purple"> C++, Javascript and Python. </b> as a Language.
+                <b className="purple"> C++, Javascript/TypeScript and Python. </b> as a Language.
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">React Native App Development </b> and
                 also in {" "}
                 <b className="purple">
-                  SEO(Search Engine Optimization).
+                  Web Technologies and Products.
                 </b>
               </i>
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and React Native</b>
               </i>
             </p>
           </Col>

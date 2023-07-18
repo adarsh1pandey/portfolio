@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Adarsh Pandey  </span>
             from <span className="purple"> Varanasi, India.</span>
-            <br />I am a @2023 B.tech Student at I K Gujral Punjab Technical University, Jaladhar.
+            <br />I am working as <span className="purple"> React Native intern </span> at <b>Chicmic Technologies LLP.</b>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
