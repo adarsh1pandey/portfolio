@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/1OhNvmcFOqKIUReKrw-E_hdYNv7kya8nx/view?usp=sharing";
+  "https://drive.google.com/drive/folders/1gwNZtnkJM3WnDrNabiEIyuRr8fRmu9tw";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -23,24 +23,24 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          {/* <Button
+          <Button
             variant="primary"
             href={pdf}
             target="_blank"
             style={{ maxWidth: "250px" }}
-          > */}
+          >
             <AiOutlineDownload />
             &nbsp;Download CV
-          {/* </Button> */}
+          </Button>
         </Row>
 
-        {/* <Row className="resume" >
-          <Document source={resumeLink} className="d-flex justify-content-center">
+        <Row className="resume" >
+          <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
-        </Row> */}
+        </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative", marginTop: 450 }}>
+        <Row style={{ justifyContent: "center", position: "relative"}}>
           <Button
             variant="primary"
             href={pdf}
