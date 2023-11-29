@@ -1,0 +1,1 @@
+export resume from './adarsh_pandey_resume.pdf'
