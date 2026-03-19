@@ -8,9 +8,13 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Adarsh Pandey  </span>
+            Hi Everyone, I am <span className="purple">Adarsh Pandey</span>
             from <span className="purple"> Varanasi, India.</span>
-            <br />I am working as <span className="purple"> React Native Developer </span> at <b>Chicmic Technologies LLP.</b>
+            <br />
+            I am a <span className="purple">Software Development Engineer I</span>{" "}
+            at <b>CARS24</b>, building and scaling cross-platform experiences with{" "}
+            <span className="purple">React Native</span>.
+            <br />I previously worked at <b>Buopso</b> and <b>Chicmic Technologies</b>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

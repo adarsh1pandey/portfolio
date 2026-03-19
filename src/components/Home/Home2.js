@@ -19,37 +19,33 @@ function Home2() {
               About <span className="purple"> Myself </span> !
             </h1>
             <p className="home-about-body">
-              I am passionate about Full Stack Web Development. I have worked on severel technologies like: React Native, ReactJs,
-                API, Git, GitHub, Google firebase, AWS etc. 
+              I’m a mobile-focused software engineer building high-quality{" "}
+              <b className="purple">React Native</b> products with a strong focus
+              on performance, animations, and reliability.
               <br />
-              <br />I know 
+              <br />
+              I have worked across <b className="purple">React Native</b>,{" "}
+              <b className="purple">React.js</b>, Android, APIs, Git/GitHub,
+              Firebase, and modern app release workflows.
+              <br />
+              <br />I know
               <i>
-                <b className="purple"> C++, Javascript/TypeScript and Python. </b> as a Language.
+                <b className="purple"> C++, JavaScript/TypeScript and Python </b>{" "}
+                as languages.
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My main interests are building &nbsp;
               <i>
-                <b className="purple">React Native App Development </b> and
-                also in {" "}
+                <b className="purple">React Native applications</b> and{" "}
                 <b className="purple">
-                  Web Technologies and Products.
+                  scalable consumer products.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I invest time in developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and React Native</b>
-              </i>
+              I enjoy working end-to-end: architecture, reusable components,
+              deep linking, performance tuning, and shipping polished UX.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

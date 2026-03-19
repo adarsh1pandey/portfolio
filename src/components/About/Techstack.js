@@ -5,7 +5,6 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
   
@@ -13,7 +12,6 @@ import {
 import {
   SiTypescript,
   SiFirebase,
-  SiNextdotjs,
   
   
 } from "react-icons/si";
